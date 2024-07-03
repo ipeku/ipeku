@@ -1,8 +1,9 @@
 Hello! I'm Ipek Unluakin 👋
 
 📚 About Me
--I am a Computer Engineering student at Galatasaray University(Istanbul/Turkey) . 
--I have a passion for programming languages and I enjoy exploring this field through various projects.
+- I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
+- I have a passion for programming languages and I enjoy exploring this field through various projects.
+
 
 🚀 Programming Languages I Know
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
