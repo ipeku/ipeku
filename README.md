@@ -1,6 +1,6 @@
 Hello! I'm Ipek Unluakin 👋
 
-📚 About Me
+<h3 align="left">📚 About Me</h3>
 - I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
 - I have a passion for programming languages and I enjoy exploring this field through various projects.
 
@@ -8,8 +8,12 @@ Hello! I'm Ipek Unluakin 👋
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
-
-🔗 Links
+<h3 align="left">🔗 Links</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/ipekunluakin/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+</p>
 - [My LinkedIn Profile](https://www.linkedin.com/in/ipekunluakin/)
 
 <picture>
