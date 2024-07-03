@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm Ipek Unluakin 👋"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm+Ipek+Unluakin+👋"/>
 
 <h3 align="left">📚 About Me</h3>
 - I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
