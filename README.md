@@ -1,8 +1,10 @@
-Hello! I'm Ipek Unluakin 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm Ipek Unluakin 👋"/>
 
 <h3 align="left">📚 About Me</h3>
 - I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
 - I have a passion for programming languages and I enjoy exploring this field through various projects.
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
 <h3 align="left">🚀 Programming Languages</h3>
 <p align="left">
