@@ -6,7 +6,7 @@ Hello! I'm Ipek Unluakin 👋
 
 <h3 align="left">🚀 Programming Languages</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 🔗 Links
