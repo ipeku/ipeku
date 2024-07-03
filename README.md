@@ -38,8 +38,7 @@
 <details> 
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipeku&show_icons=true&locale=en&layout=compact&theme=radical" alt="ipeku" /></p>
-<details> 
-    
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
 
