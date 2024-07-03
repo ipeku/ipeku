@@ -14,7 +14,7 @@ Hello! I'm Ipek Unluakin 👋
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
-- [My LinkedIn Profile](https://www.linkedin.com/in/ipekunluakin/)
+- ipekunluakin
 
 <picture>
   <source
