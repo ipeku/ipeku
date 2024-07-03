@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm+Ipek+Unluakin+👋&duration=1500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm+Ipek+Unluakin+👋&duration=1700"/>
 
 <h3 align="left">📚 About Me</h3>
 - I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
@@ -34,6 +34,12 @@
   />
 </picture>
 
+---
+<details> 
+  <summary> ✌️ My GitHub Analytics </summary>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipeku&show_icons=true&locale=en&layout=compact&theme=radical" alt="ipeku" /></p>
+<details> 
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
 
