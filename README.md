@@ -13,10 +13,10 @@
 
 <h3 align="left">🚀 Programming Languages</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,arduino,php" />
 </p>
 
-<h3 align="left">🛠️ Frameworks & Tools</h3>
+<h3 align="left">🛠️ Frameworks</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=spring" />
 </p>
@@ -24,6 +24,17 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
+<h3 align="left">📝 Markup & Document Languages</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,latex,md" />
+</p>
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,ubuntu,windows,bash,powershell,vscode,idea,eclipse" />
+</p>
+
 
 <h3 align="left">🗄️ Databases</h3>
 <p align="left">
@@ -37,6 +48,9 @@
     <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
+
+
+
 
 
 <h3 align="left">🔗 Links</h3>
