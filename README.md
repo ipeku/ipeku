@@ -9,8 +9,18 @@
 
 <h3 align="left">🚀 Programming Languages</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python, arduino" />
 </p>
+
+<h3 align="left">🛠️ Frameworks & Tools</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+<h3 align="left">🧪 API Testing Tools</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
 <h3 align="left">🔗 Links</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/ipekunluakin/">
