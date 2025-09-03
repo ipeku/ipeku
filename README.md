@@ -2,14 +2,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Hello!;I'm+Ipek+Unluakin+👋&duration=1700"/>
 
 <h3 align="left">📚 About Me</h3>
-- I am a Computer Engineering student at Galatasaray University (Istanbul/Turkey).<br>
-- I have a passion for programming languages and I enjoy exploring this field through various projects.
+- I am a Computer Engineering student at Galatasaray University (Istanbul, Turkey). <br>
+- I am passionate about programming and continuously improving my skills by working on different projects and exploring new technologies. <br>
+- I enjoy learning through both coursework and personal projects, which helps me combine theory with practice.<br><br>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="35%" align="right" style="margin-left:20px; margin-bottom:10px;" />
+
 
 <h3 align="left">🚀 Programming Languages</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python, arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,arduino" />
 </p>
 
 <h3 align="left">🛠️ Frameworks & Tools</h3>
@@ -20,6 +24,20 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
+<h3 align="left">🗄️ Databases</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+
+<h3 align="left">🛠️ Database Tools</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
 
 <h3 align="left">🔗 Links</h3>
 <p align="left">
